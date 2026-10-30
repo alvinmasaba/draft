@@ -54,7 +54,7 @@ def calc_totals(df, data, stat, value, i):
 
 def add_additional_keys(df):
     df['height'] = df['height'].apply(convert_height_to_inches)
-    df = normalize_values(df, ['draft_age', 'height', 'weight'])
+    # df = normalize_values(df, ['draft_age', 'height', 'weight'])
     return df
 
 def convert_dicts(df, dicts):
