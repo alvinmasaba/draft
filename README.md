@@ -40,9 +40,3 @@ Current areas of exploration include:
 - Expanding prospect coverage and exploring additional player evaluation approaches.
 
 The long-term objective is to develop a flexible analytical framework for basketball talent evaluation and NBA prospect projection.
-
-## Author
-
-**Alvin Masaba**
-
-[GitHub](https://github.com/alvinmasaba)
